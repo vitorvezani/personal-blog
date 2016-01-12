@@ -1,9 +1,9 @@
 # Site settings
 title: Vitor Vezani
-header-img: img/home-bg.jpgp
+header-img: img/home-bg.jpg
 email: vitor.vezani@gmail.com
 description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "personal-blog"
+baseurl: "/personal-blog"
 url: "http://vitorvezani.com"
 twitter_username: vvezani
 github_username:  vitorvezani
